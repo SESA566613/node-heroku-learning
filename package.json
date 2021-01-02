@@ -7,6 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SESA566613/node-heroku-learning.git"
+  },
   "author": "Shantanu Priyadarshi",
   "license": "ISC",
   "bugs": {
