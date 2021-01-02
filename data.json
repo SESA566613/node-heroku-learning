@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Shantanu Priyadarshi",
+        "sesa":"1111",
+        "team":"spd"
+    },
+    {
+        "name": "Vivek Mohla",
+        "sesa":"2222",
+        "team":"vml"
+    },
+    {
+        "name": "Pranav Vetkar",
+        "sesa":"3333",
+        "team":"pvr"
+    },
+    {
+        "name": "Keshav Lohmod",
+        "sesa":"4444",
+        "team":"kld"
+    },
+    {
+        "name": "Arusha Ellias",
+        "sesa":"5555",
+        "team":"aes"
+    },
+    {
+        "name": "Arya Mohan",
+        "sesa":"6666",
+        "team":"amn"
+    },
+    {
+        "name": "Rufina George",
+        "sesa":"7777",
+        "team":"rge"
+    },
+    {
+        "name": "Apoorva Singh",
+        "sesa":"8888",
+        "team":"ash"
+    },
+    {
+        "name": "Ravi Choudhary",
+        "sesa":"9999",
+        "team":"rcy"
+    },
+    {
+        "name": "Raghunath Pal",
+        "sesa":"1010",
+        "team":"rpl"
+    }
+]
